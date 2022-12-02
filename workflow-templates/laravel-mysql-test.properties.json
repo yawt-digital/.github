@@ -1,0 +1,8 @@
+{
+    "name": "Run Laravel Tests on MySQL",
+    "description": "Starter workflow template for running Laravel tests on MySQL.",
+    "categories": [
+        "PHP",
+        "Blade",
+    ],
+}

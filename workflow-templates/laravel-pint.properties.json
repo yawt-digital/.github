@@ -1,0 +1,8 @@
+{
+    "name": "Tidy PHP Code with Laravel Pint Workflow",
+    "description": "Starter workflow template for running php-cs-fixer via Laravel Pint.",
+    "categories": [
+        "PHP",
+        "Blade",
+    ],
+}

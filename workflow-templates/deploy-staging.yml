@@ -1,0 +1,14 @@
+name: Deploy to Staging
+
+on:
+  push:
+    branches:
+      - $default-branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Call Forge Hook
+        run: curl ${{ secrets.FORGE_STAGE_HOOK }}
