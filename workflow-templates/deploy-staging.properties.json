@@ -1,5 +1,5 @@
 {
-    "name": "Deploy to Forge Staging Workflow",
+    "name": "Deploy to Forge Staging",
     "description": "Starter workflow template for deploying new pushes from the default branch to Laravel Forge.",
     "categories": [
         "PHP",

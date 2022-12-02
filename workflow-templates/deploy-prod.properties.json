@@ -1,5 +1,5 @@
 {
-    "name": "Deploy to Forge Production Workflow",
+    "name": "Deploy to Forge Production",
     "description": "Starter workflow template for deploying a new release to Laravel Forge and creating a Sentry.io Release.",
     "categories": [
         "PHP",
