@@ -3,6 +3,6 @@
     "description": "Starter workflow template for running php-cs-fixer via Laravel Pint.",
     "categories": [
         "PHP",
-        "Blade",
-    ],
+        "Blade"
+    ]
 }
